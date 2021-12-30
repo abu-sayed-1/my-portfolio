@@ -30,7 +30,7 @@
 
 [**Visit-Website**](https://abu-sayed.netlify.app/)
 
-![Abu-Sayed-Portfolio](https://i.ibb.co/sQ8FJwn/ezgif-3-e68d1e65c0.gif)
+![Abu-Sayed-Portfolio](https://github.com/Rakibwe/my-portfolio/blob/main/src/Components/images/my-portfolio-demo.gif)
 
 ```
    npm start or yarn start
