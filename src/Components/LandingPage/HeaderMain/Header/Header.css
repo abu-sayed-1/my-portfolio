@@ -1,0 +1,105 @@
+.header_container {
+    background-image: url("../../../images/home-banner.png");
+    background-repeat: repeat;
+    height: 50%;
+    background-size: 100% 100%;
+}
+
+.header_container h3 {
+    font-size: 2rem;
+}
+
+.show_skills {
+    color: rgba(87, 87, 238, 0.678)
+}
+
+.header_container h3::after {
+    content: "";
+    height: 2px;
+    width: 18vw;
+    background: black;
+    display: inline-block;
+    margin-left: 5%;
+    transform: translateY(-10px);
+    -webkit-transform: translateY(-10px);
+    -moz-transform: translateY(-10px);
+    -ms-transform: translateY(-10px);
+    -o-transform: translateY(-10px);
+}
+
+.header_container h1 {
+    font-size: 4rem;
+}
+
+.header_container h4 {
+    font-size: 1.5rem;
+}
+
+.header_container img {
+    width: 90rem;
+}
+
+.text_title {
+    font-weight: bold;
+}
+
+.button {
+    padding: .8rem 2.2rem;
+    font: normal 500 16px/20px var(--roboto);
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: 'Roboto', sans-serif;
+    position: relative;
+    border: 3px solid transparent;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+
+.button.hire_btn {
+    border: none !important;
+    color: rgba(245, 245, 245, 0.918);
+    background-image: linear-gradient(90deg, rgba(0, 0, 255, 0.705), rgba(87, 87, 238, 0.788));
+}
+
+.button.hire_btn:hover {
+    background: white;
+    border: 2px solid rgba(22, 22, 218, 0.692) !important;
+}
+
+.button.button.hire_btn:hover {
+    color: black !important;
+}
+
+.get_resume {
+    background: white;
+    border: 2px solid rgba(22, 22, 218, 0.692) !important;
+
+}
+
+
+@media only screen and (min-width: 200px) and (max-width: 322px) {
+    .get_resume {
+        margin-top: 20px !important;
+    }
+}
+
+
+.fixed_socialMedia {
+    width: 45px !important;
+    height: 45px !important;
+}
+
+.fixed_bottom {
+    position: fixed;
+    float: right !important;
+    top: 30rem;
+    right: 2rem;
+}
+
+.social_media a:hover .fa-envelope-open-text {
+    color: rgba(0, 0, 255, 0.521);
+}

@@ -1,0 +1,7 @@
+.projectsSkills_navbar {
+    color: #5bd1d7 !important;
+}
+
+.projectsSkills_navbar:focus {
+    color: #5ba5d7 !important;
+}

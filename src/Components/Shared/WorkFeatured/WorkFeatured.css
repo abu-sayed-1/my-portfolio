@@ -1,0 +1,90 @@
+.WorkFeatured_container {
+    min-height: 100vh;
+    max-height: auto;
+}
+
+.WorkFeatured_container::before {
+    content: "";
+    position: absolute;
+    top: 0%;
+    bottom: 0%;
+    left: 0%;
+    right: 0%;
+    opacity: .5;
+    z-index: -1;
+    background: linear-gradient(40deg, rgba(1, 73, 85, 1) 55%, #fff 0%)
+}
+
+.card {
+    height: 39rem;
+}
+
+.cards {
+    transition: ease-out 0.4s;
+    -webkit-transition: ease-out 0.4s;
+    -moz-transition: ease-out 0.4s;
+    -ms-transition: ease-out 0.4s;
+    -o-transition: ease-out 0.4s;
+}
+
+.cards:hover {
+    box-shadow: 0px 0px 26px rgba(10, 9, 9, 0.329);
+    transition: 0.4s;
+    transform: translateY(-20px);
+    -webkit-transform: translateY(-20px);
+    -moz-transform: translateY(-20px);
+    -ms-transform: translateY(-20px);
+    -o-transform: translateY(-20px);
+    -webkit-transition: 0.4s;
+    -moz-transition: 0.4s;
+    -ms-transition: 0.4s;
+    -o-transition: 0.4s;
+}
+
+.external_link {
+    color: black;
+}
+
+.work_card {
+    font-weight: 600;
+}
+
+
+.project {
+    width: 100%;
+    height: 150px;
+    overflow: hidden;
+    padding: 8px;
+}
+
+.project:hover>img {
+    transform: translateY(-80%);
+}
+
+.project>img {
+    width: 100%;
+    transition: transform 2s ease-in-out;
+}
+
+
+.see_all {
+    text-decoration: none !important;
+    display: flex;
+    justify-content: end !important;
+    padding-right: 12rem;
+
+}
+
+.see_all>button {
+    background: #80a4aa;
+    text-align: center;
+    color: #4e4ef8;
+    border: 2px solid #4e4ef8;
+}
+
+.see_all>button:hover {
+    background: #80a4aa;
+    text-align: center;
+    color: #4e4ef8b7;
+    border: 2px solid #4e4ef8c2;
+}

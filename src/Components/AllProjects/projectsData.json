@@ -1,0 +1,214 @@
+[
+    {
+        "project": "fullStack",
+        "title": "Aircnc",
+        "img": "https://i.ibb.co/801wKCQ/Web-1920-3.png",
+        "summary": "Aircnc is an International hotel agency. They have hotels in thirty cities in ten countries of the world, users can choose any country by searching, and more...",
+        "technology": [
+            {
+                "tech": "REACT.JS"
+            },
+            {
+                "tech": "BOOTSTRAP"
+            },
+            {
+                "tech": "MATERIAL-UI"
+            },
+            {
+                "tech": " NODE.JS"
+            },
+            {
+                "tech": "EXPRESS.JS"
+            },
+            {
+                "tech": "MONGODB"
+            },
+            {
+                "tech": "STRIPE.JS"
+            }
+        ],
+        "sourceCodeClient": "https://github.com/Rakibwe/Aircnc-client",
+        "sourceCodeBackend": "https://github.com/Rakibwe/Aircnc-server",
+        "siteUrl": "https://aircnc-application.herokuapp.com/"
+    },
+    {
+        "project": "fullStack",
+        "title": "E-Commerce-shop",
+        "proj": "Most Recent",
+        "img": "https://i.ibb.co/zNwn4Ky/e-commerce-shop.png",
+        "summary": "This is a great E-Commerce Shop. Users can see all products and product detail and users can Filter for products. users can add the product to the cart, and also implemented pagination search User and Admin authorization, and More...",
+        "technology": [
+            {
+                "tech": "REACT.JS"
+            },
+            {
+                "tech": " NODE.JS"
+            },
+            {
+                "tech": "EXPRESS.JS"
+            },
+            {
+                "tech": "MONGODB"
+            },
+            {
+                "tech": "MONGOOSE"
+            },
+            {
+                "tech": "REDUX"
+            },
+            {
+                "tech": "REDUX-THUNK"
+            },
+            {
+                "tech": "CLOUDINARY"
+            },
+            {
+                "tech": "STRIPE.JS"
+            },
+            {
+                "tech": "AXIOS"
+            }
+        ],
+        "sourceCodeClient": "https://github.com/Rakibwe/mern-stack-Ecommerce-Project/tree/main/frontend",
+        "sourceCodeBackend": "https://github.com/Rakibwe/mern-stack-Ecommerce-Project/tree/main/backend",
+        "siteUrl": "https://e-commerce-shop-fg.netlify.app/"
+    },
+    {
+        "project": "fullStack",
+        "title": "Creative-agency",
+        "img": "https://i.ibb.co/jVCTrVN/1-Landing-page.png",
+        "summary": "Creative Agency is an Excellent service provider. This is a software service selling website. and also implemented User and Admin authorization, log in with Gmail, logout, and more...",
+        "technology": [
+            {
+                "tech": "REACT.JS"
+            },
+            {
+                "tech": "BOOTSTRAP"
+            },
+            {
+                "tech": "FIREBASE"
+            },
+            {
+                "tech": " NODE.JS"
+            },
+            {
+                "tech": "EXPRESS.JS"
+            },
+            {
+                "tech": "MONGODB"
+            },
+            {
+                "tech": "SWIPER"
+            }
+        ],
+        "sourceCodeClient": "https://github.com/Rakibwe/Creative-agency-client",
+        "sourceCodeBackend": "https://github.com/Rakibwe/Creative-agency-server",
+        "siteUrl": "https://creative-agency-5dbc5.web.app/"
+    },
+    {
+        "project": "fullStack",
+        "title": "Power-x-gym",
+        "img": "https://i.ibb.co/68kJxms/powerx-1.png",
+        "summary": "power-x-gym is a fitness studio, user can see all training programs And user can view the class schedule by selecting specific training, and also implementd signUp, pricing plan, authentication more...",
+        "technology": [
+            {
+                "tech": "REACT.JS"
+            },
+            {
+                "tech": "BOOTSTRAP"
+            },
+            {
+                "tech": "FIREBASE"
+            },
+            {
+                "tech": " NODE.JS"
+            },
+            {
+                "tech": "EXPRESS.JS"
+            },
+            {
+                "tech": "MONGODB"
+            },
+            {
+                "tech": "STRIPE.JS"
+            },
+            {
+                "tech": "PAYPAL"
+            }
+        ],
+        "sourceCodeClient": "https://github.com/Rakibwe/Power-x-gym-client",
+        "sourceCodeBackend": "https://github.com/Rakibwe/Power-x-gym-server",
+        "siteUrl": "https://power-x-gym-f0cc5.web.app/"
+    },
+    {
+        "project": "frontend",
+        "title": "Travel-Guru",
+        "img": "https://i.ibb.co/QPtQ9y4/travel-guru.png",
+        "summary": "Travel-Guru is an Travel website More...",
+        "technology": [
+            {
+                "tech": "REACT.JS"
+            },
+            {
+                "tech": "BOOTSTRAP"
+            },
+            {
+                "tech": "REACT-BOOTSTRAP"
+            },
+            {
+                "tech": "FIREBASE"
+            }
+        ],
+        "sourceCodeClient": "https://github.com/Rakibwe/Travel-guru",
+        "siteUrl": "https://travel-guru-3e28f.web.app/"
+    },
+    {
+        "project": "frontend",
+        "title": "ToDo-List",
+        "img": "https://i.ibb.co/w40WKd4/todo-list.png",
+        "summary": "This is a simple Todo-List using, React, Redux, CSS3",
+        "technology": [
+            {
+                "tech": "REACT.JS"
+            },
+            {
+                "tech": "REDUX"
+            },
+            {
+                "tech": "CSS3"
+            }
+        ],
+        "sourceCodeClient": "https://github.com/Rakibwe/toDoApp",
+        "siteUrl": "https://as-todo-app.netlify.app/"
+    },
+    {
+        "project": "frontend",
+        "title": "My Personal Portfolio",
+        "img": "https://i.ibb.co/kGxSfz8/landing-page.png",
+        "summary": "This is my Personal Portfolio website. and I try to always update my website. if you went to know more about me,  please",
+        "contact": "contact me",
+        "technology": [
+            {
+                "tech": "REACT.JS"
+            },
+            {
+                "tech": "REACT-REVEAL"
+            },
+            {
+                "tech": "BOOTSTRAP"
+            },
+            {
+                "tech": "CSS3"
+            },
+            {
+                "tech": "EMAILJS-COM"
+            },
+            {
+                "tech": "NETLIFY"
+            }
+            
+        ],
+        "sourceCodeClient": "https://github.com/Rakibwe/my-portfolio",
+        "siteUrl": "https://abu-sayed.netlify.app/"
+    }
+]

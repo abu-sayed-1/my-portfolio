@@ -1,0 +1,19 @@
+.projects> div:first-child {
+    padding-top: 10px !important;
+}
+
+.projects> div> section> div> div> div {
+    margin-top: 2rem
+}
+
+.projects>.pt {
+    padding-top: 0px !important;
+}
+
+.projects>div> section> div> h1 {
+    display: none;
+}
+
+.projects> div> section> a {
+    display: none;
+}
