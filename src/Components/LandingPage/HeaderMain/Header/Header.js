@@ -61,7 +61,7 @@ const Header = () => {
                       </button>
                     </a>
                     <a
-                      href="https://drive.google.com/file/d/1aUOpJeY1DJGslJHi_4bODR5C4mfcM-Q6/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1pAeLd5W0ZD4dRoCSbh0RGYaEof6fOHrU/view?usp=sharing"
                       target="blank"
                     >
                       <button
@@ -90,7 +90,7 @@ const Header = () => {
                   />
                 </a>
                 <a
-                  href="https://github.com/Rakibwe"
+                  href="https://github.com/abu-sayed-1"
                   target="blank"
                   rel="noopener noreferrer"
                   className=" my-4 fixed_socialMedia"

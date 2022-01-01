@@ -13,15 +13,14 @@ import { Slide } from "react-reveal";
 import Footer from "../../Shared/Footer/Footer";
 
 const ContactUs = () => {
-  
   const handleSubmit = (e) => {
     e.preventDefault();
     emailjs
       .sendForm(
         "gmail",
-        "*****",
+        "****",
         e.target,
-        "*****"
+        "****"
       )
       .then(
         (result) => {
@@ -83,7 +82,7 @@ const ContactUs = () => {
                   />
                 </a>
                 <a
-                  href="https://github.com/Rakibwe"
+                  href="https://github.com/abu-sayed-1"
                   target="blank"
                   rel="noopener noreferrer"
                 >

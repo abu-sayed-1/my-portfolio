@@ -27,8 +27,8 @@
                 "tech": "STRIPE.JS"
             }
         ],
-        "sourceCodeClient": "https://github.com/Rakibwe/Aircnc-client",
-        "sourceCodeBackend": "https://github.com/Rakibwe/Aircnc-server",
+        "sourceCodeClient": "https://github.com/abu-sayed-1/Aircnc-client",
+        "sourceCodeBackend": "https://github.com/abu-sayed-1/Aircnc-server",
         "siteUrl": "https://aircnc-application.herokuapp.com/"
     },
     {
@@ -69,8 +69,8 @@
                 "tech": "AXIOS"
             }
         ],
-        "sourceCodeClient": "https://github.com/Rakibwe/mern-stack-Ecommerce-Project/tree/main/frontend",
-        "sourceCodeBackend": "https://github.com/Rakibwe/mern-stack-Ecommerce-Project/tree/main/backend",
+        "sourceCodeClient": "https://github.com/abu-sayed-1/mern-stack-Ecommerce-Project/tree/main/frontend",
+        "sourceCodeBackend": "https://github.com/abu-sayed-1/mern-stack-Ecommerce-Project/tree/main/backend",
         "siteUrl": "https://e-commerce-shop-fg.netlify.app/"
     },
     {
@@ -101,8 +101,8 @@
                 "tech": "SWIPER"
             }
         ],
-        "sourceCodeClient": "https://github.com/Rakibwe/Creative-agency-client",
-        "sourceCodeBackend": "https://github.com/Rakibwe/Creative-agency-server",
+        "sourceCodeClient": "https://github.com/abu-sayed-1/Creative-agency-client",
+        "sourceCodeBackend": "https://github.com/abu-sayed-1/Creative-agency-server",
         "siteUrl": "https://creative-agency-5dbc5.web.app/"
     },
     {
@@ -136,8 +136,8 @@
                 "tech": "PAYPAL"
             }
         ],
-        "sourceCodeClient": "https://github.com/Rakibwe/Power-x-gym-client",
-        "sourceCodeBackend": "https://github.com/Rakibwe/Power-x-gym-server",
+        "sourceCodeClient": "https://github.com/abu-sayed-1/Power-x-gym-client",
+        "sourceCodeBackend": "https://github.com/abu-sayed-1/Power-x-gym-server",
         "siteUrl": "https://power-x-gym-f0cc5.web.app/"
     },
     {
@@ -159,7 +159,7 @@
                 "tech": "FIREBASE"
             }
         ],
-        "sourceCodeClient": "https://github.com/Rakibwe/Travel-guru",
+        "sourceCodeClient": "https://github.com/abu-sayed-1/Travel-guru",
         "siteUrl": "https://travel-guru-3e28f.web.app/"
     },
     {
@@ -178,7 +178,7 @@
                 "tech": "CSS3"
             }
         ],
-        "sourceCodeClient": "https://github.com/Rakibwe/toDoApp",
+        "sourceCodeClient": "https://github.com/abu-sayed-1/toDoApp",
         "siteUrl": "https://as-todo-app.netlify.app/"
     },
     {
@@ -208,7 +208,7 @@
             }
             
         ],
-        "sourceCodeClient": "https://github.com/Rakibwe/my-portfolio",
+        "sourceCodeClient": "https://github.com/abu-sayed-1/my-portfolio",
         "siteUrl": "https://abu-sayed.netlify.app/"
     }
 ]

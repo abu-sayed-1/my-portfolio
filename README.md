@@ -3,7 +3,7 @@
 
 [**Visit-Website**](https://abu-sayed.netlify.app/)
 
-![Abu-Sayed-Portfolio](https://github.com/Rakibwe/my-portfolio/blob/main/src/Components/images/my-portfolio-demo.gif)
+![Abu-Sayed-Portfolio](https://github.com/abu-sayed-1/my-portfolio/blob/main/src/Components/images/my-portfolio-demo.gif)
 
 ```
    npm start or yarn start

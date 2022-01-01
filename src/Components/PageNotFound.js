@@ -11,7 +11,7 @@ const PageNotFound = () => {
     border: "2px solid #4e4ef8",
   };
   return (
-    <div className="d-flex justify-content-center">
+    <div sm={6} className="d-flex justify-content-center">
       <div>
         <img fluid src={notFound} alt="Page Not Found" />
         <Link to="/" className="d-flex justify-content-center" style={{textDecoration: 'none'}}>
