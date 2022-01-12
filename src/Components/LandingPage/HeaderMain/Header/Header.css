@@ -103,3 +103,15 @@
 .social_media a:hover .fa-envelope-open-text {
     color: rgba(0, 0, 255, 0.521);
 }
+
+@media (max-width: 768px) {
+    .header_container h4{
+        font-size:20px !important;
+    }
+}
+
+@media(max-width:500px) {
+    .headerImg{
+        padding-top: 4rem;
+    }
+}

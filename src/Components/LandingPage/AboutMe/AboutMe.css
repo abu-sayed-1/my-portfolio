@@ -1,4 +1,19 @@
-.aboutMe_container h1{
+.aboutContent h1{
     letter-spacing: 8px;
     font-weight: 700;
+}
+
+@media (max-width: 768px) {
+    .aboutContent{
+        padding-top: 4rem;
+    }
+    .aboutContent h1{
+        text-align: center !important;
+    }
+}
+
+@media (max-width: 1024px) {
+    .aboutContent h1 {
+        letter-spacing: 0px
+    }
 }

@@ -18,9 +18,9 @@ const ContactUs = () => {
     emailjs
       .sendForm(
         "gmail",
-        "****",
+        "template_qj1o2f9",
         e.target,
-        "****"
+        "user_7pnWAd5svNRFlpeUsPKby"
       )
       .then(
         (result) => {
@@ -38,7 +38,7 @@ const ContactUs = () => {
     <section id="contact" className="pt-5 px-md-5 px-2 from_content">
       <Container fluid className="py-5 px-lg-5">
         <Slide bottom>
-          <h2 className="text-dark text-center py-5 skills">CONTACT US</h2>
+          <h2 className="text-dark text-center py-5 skills all_title_section">CONTACT US</h2>
         </Slide>
 
         <Slide bottom>

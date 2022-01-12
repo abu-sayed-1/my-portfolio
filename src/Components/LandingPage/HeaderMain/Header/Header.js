@@ -16,8 +16,8 @@ const Header = () => {
           <Col sm={12} md={6} lg={6} xl={6}>
             <div className="pt-5">
               <Fade left big>
-                <h3 className="pt-3 text_title">Hey</h3>
-                <h1 className="text_title">I AM ABU SAYED</h1>
+                <h3 className="pt-3 text_title all_title_section">Hey</h3>
+                <h1 className="text_title all_title_section">I AM ABU SAYED</h1>
                 <h4 className="text_title pt-2">FULL-STACK WEB DEVELOPER</h4>
                 <h4 className="pt-2">
                   I work in{" "}
@@ -61,7 +61,7 @@ const Header = () => {
                       </button>
                     </a>
                     <a
-                      href="https://drive.google.com/file/d/1pAeLd5W0ZD4dRoCSbh0RGYaEof6fOHrU/view?usp=sharing"
+                      href="https://drive.google.com/file/d/1xpug-Y23EIvioaF9xhw0o6ep17ShsibT/view"
                       target="blank"
                     >
                       <button
@@ -114,7 +114,7 @@ const Header = () => {
               </div>
             </div>
           </Col>
-          <Col sm={12} md={6} lg={6} xl={6}>
+          <Col sm={12} md={6} lg={6} xl={6} className="headerImg">
             <Fade right big>
               <img src={mainImg} className="img-fluid" alt="" />
             </Fade>
